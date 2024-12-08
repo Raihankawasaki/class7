@@ -1,0 +1,7 @@
+
+temperature= float(input("Enter todays temperature in degree celcius:"))
+
+if temperature<=25:
+    print("You should put on your jacket. ")
+else:
+    print("You can wear soft and light clothes.")
